@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="assets/Maemu TechBanner.png" alt="Profile Banner" width="100%" />
+  <img src="/assests/mamie.jpg" alt="Profile Banner" width="100%" />
 </p>
-
-<h1 align="center">Hi, I'm Ronnie 👋</h1>
+<h1 align="center">Hi, I'm Mamikie most def prefer Ronnie 👋</h1>
 <p align="center">
-  <b>Software Developer | Java Enthusiast | Open Source Contributor</b>
+  <b>Junior Front-End Developer | Full-Stack Enthusiast | ALX Africa Learner | Car & Speed Lover 🏎️</b>
 </p>
 
 <p align="center">
@@ -14,16 +13,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👩‍💻 About Me
 
-- 🔭 I’m currently working on my portfolio and front-end projects like a banking system I just recently completed, movie database, and an ID validation system(JAVA).
-- 🌱 I’m currently learning Angular and deepening my front-end skills with Udemy and ALX.
-- 👯 I’m looking to collaborate on React or Angular-based projects to deepen my skills and understanding.
-- 🤔 I’m looking for help with sharpening my front-end skills, especially mastering JavaScript and also it's frameworks. Like Angular and React, and building strong UI/UX. 
-     Resources, tips, or code reviews are super welcome.
-- 💬 Ask me about: Front-end development (React, HTML/CSS/JS), or what it's like diving into full-stack development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mamikie-ronewa-maemu-a43150329?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGtaB8F5oS2G8sLKOlEc3Ig%3D%3D)
-- ⚡ Fun fact: I learned how to containerize a whole project repo with Docker recently, felt like a tech wizard!!
+- 🔭 I’m currently building my portfolio and working on front-end projects like a **banking system**, **movie database**, and **SA ID validation system**.  
+- 🌱 I’m on an exciting journey learning **React**, sharpening my **HTML, CSS, and JavaScript** skills, and leveling up my front-end expertise with **ALX Africa**.  
+- 🏎️ Outside of code, I love **cars and speed** — whether it’s racing through circuits or optimizing my projects for maximum performance.  
+- 👯 I’m looking to collaborate on **React or Angular projects** to continue learning and improving.  
+- 🤔 I’m always looking for tips, code reviews, and resources to **boost my skills and create clean, fast, and interactive UI/UX**.  
+- 💬 Ask me about: Front-end development, React, or how I turn speed-loving ideas into fast-loading apps.  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mamikie-ronewa-maemu-a43150329?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGtaB8F5oS2G8sLKOlEc3Ig%3D%3D)  
+- ⚡ Fun fact: I love combining my **need for speed** with coding — like thinking of components as race cars on a track, each with its lane, speed, and performance metrics.
+
 ---
 
 ### 🚀 Tech Stack & Tools
@@ -39,6 +39,25 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithRonnie&show_icons=true&theme=dark" />
-</p>
+### 🏁 Code Scenario: Speed Meets Front-End
+
+```Javascript
+ Imagine each React component is like a race car 🏎️
+ The faster and cleaner it is, the smoother the track (UI/UX experience)
+
+function RaceTrack() {
+  const cars = ["Navbar", "HeroSection", "ProjectCards", "Footer"];
+  
+  return (
+    <div>
+      {cars.map((car, index) => (
+        <div key={index}>
+          🚀 {car} is hitting top speed on the track!
+        </div>
+      ))}
+    </div>
+  );
+}
+
+ Goal: Keep every component light, fast, and high-performance.
+ Just like tuning your car for peak performance on the race circuit.
