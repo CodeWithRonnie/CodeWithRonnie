@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assests/mamie.jpg" alt="Profile Banner" width="100%" />
+  <img src="/assests/mamie.jpg" alt="Profile Banner" width="50%" height="50%" />
 </p>
 <h1 align="center">Hi, I'm Mamikie most def prefer Ronnie 👋</h1>
 <p align="center">
