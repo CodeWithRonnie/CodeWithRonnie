@@ -61,3 +61,9 @@ function RaceTrack() {
 
  Goal: Keep every component light, fast, and high-performance.
  Just like tuning your car for peak performance on the race circuit.
+ 
+### 🎯 My Learning Mission
+
+I am a learner of the **ALX Software Engineering program**, and I want to revamp my GitHub profile to make it **stand out from the crowd** in my job search.  
+This is why I started with **software engineering**, what I am passionate about (**building interactive, clean, and fast web experiences**) and what inspires me (**turning ideas into usable websites**).  
+My aim is to **grow as a front-end developer, master React, and create UI/UX that’s both beautiful and functional**, and that’s why I would like to work on **projects that challenge me, like portfolio builds, CRUD apps, and interactive web dashboards**.  
